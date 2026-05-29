@@ -119,3 +119,27 @@ git push origin
 **Respuesta:** Esta carpeta no es visible en GitHub porque, aunque iniciaste un repositorio local con `git init`, nunca se vinculó a una URL de un repositorio remoto mediante un comando como `git remote add origin`. Git no sabe que debe enviar esos archivos a ningún servidor, por lo que todo el trabajo permanece almacenado exclusivamente en tu disco duro.
 
 ---
+
+![alt text](<Captura de pantalla 2026-05-28 184125.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184213.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184316.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184528.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184603.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184701.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184711.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184752.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184921.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 184937.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 190330.png>)
+
+![alt text](<Captura de pantalla 2026-05-28 190524.png>)
