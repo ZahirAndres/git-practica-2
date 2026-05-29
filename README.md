@@ -120,26 +120,26 @@ git push origin
 
 ---
 
-![alt text](<Captura de pantalla 2026-05-28 184125.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184125.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184213.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184213.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184316.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184316.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184528.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184528.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184603.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184603.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184701.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184701.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184711.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184711.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184752.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184752.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184921.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184921.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 184937.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 184937.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 190330.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 190330.png>)
 
-![alt text](<Captura de pantalla 2026-05-28 190524.png>)
+![alt text](<assests/Captura de pantalla 2026-05-28 190524.png>)
